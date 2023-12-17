@@ -1,0 +1,23 @@
+{
+    "backend": "django",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "",
+    "db_user": "",
+    "dbms": "0",
+    "description": "generated product",
+    "design": "volt-dashboard",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "ba874dab-4636-4d72-bbdc-abc7aa244ed0",
+    "task_info": "Upload Sources [0%] - 487 files",
+    "task_output": "ba874dab-4636-4d72-bbdc-abc7aa244ed0.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2023-12-17-16-23-57",
+    "task_ts_start": "2023-12-17-16-23-55"
+}
